@@ -3,7 +3,7 @@
 I'm Aziz, a software engineer with a passion for developing efficient, scalable, and secure applications. I'm currently a COOP software engineer at SCAI where I participated in the development of a major product.
 ## 🎓 Education
 
-- Bachelor's degree in Computer Science with First Class Honours from PSU.
+- Bachelor's degree in Computer Science - First Class Honours from Prince Sultan University.
 
 ## 💻 Skills
 
