@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Aziz, in addition to my experience in software engineering, I have a keen interest in DevOps and the ways it can improve the software development lifecycle. I have extensive experience working with DevOps tools such as Kubernetes, Docker, Git, and other tools commonly used by DevOps engineers. 
+I'm Abdulaziz, in addition to my experience in software engineering, I have a keen interest in DevOps and the ways it can improve the software development lifecycle. I have extensive experience working with DevOps tools such as Kubernetes, Docker, Git, and other tools commonly used by DevOps engineers. 
 ## 🎓 Education
 
 - Bachelor's degree in Computer Science - First Class Honours from Prince Sultan University.
